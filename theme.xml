@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<theme defaultView="GAMECAROUSEL">
+<theme defaultView="HORIZONTAL">
 <formatVersion>7</formatVersion>
+
+<!-- variables -->
 <variables>
 <systemViewName>SISTEMA</systemViewName>
 <colorbgName>WALLPAPER DEFAULT</colorbgName>
 <bigboxName>ANIMACION</bigboxName>
-
 <mostra-personajesName>ACTIVAR PERSONAJES</mostra-personajesName>
 <size-personaje1Name>PERSONAJE 1 TAMAÑO</size-personaje1Name>
 <size-personaje2Name>PERSONAJE 2 TAMAÑO</size-personaje2Name>
@@ -13,21 +14,16 @@
 <animacion-de-personajes-1Name>PERSONAJE 1 ANIMACION</animacion-de-personajes-1Name>
 <animacion-de-personajes-2Name>PERSONAJE 2 ANIMACION</animacion-de-personajes-2Name>
 <animacion-de-personajes-3Name>PERSONAJE 3 ANIMACION</animacion-de-personajes-3Name>
-
 <subset.animacion-imagen-de-fondo>COLOR EN MINI WALLPAPER</subset.animacion-imagen-de-fondo>
 <opciones-de-videoName>TIPO DE VIDEO (solo en system)</opciones-de-videoName>
-
 <mostrar-boxarteName>MOSTRAR CARATULAS</mostrar-boxarteName>
 <mostrar-consolaName>MOSTRAR CONSOLA</mostrar-consolaName>
 <mostrar-controlesName>MOSTRAR CONTROLES</mostrar-controlesName>
-
 <cambiar-logos-en-carruselName>LOGOS EN CARRUSEL</cambiar-logos-en-carruselName>
 <cambiar-logos-en-gamelistName>LOGOS EN GAMELIST</cambiar-logos-en-gamelistName>
 <activar-movimiento-en-logo-de-carruselName>LOGO CARRUSEL(only system)</activar-movimiento-en-logo-de-carruselName>
-
 <subset.aplicar-sonido-en-carrusel>SONIDO EN CARRUSEL</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>SONIDO EN GAMELIST</subset.aplicar-sonido-en-gamelist>
-
 <informacionsystemName>DESCRIPCION</informacionsystemName>
 <menuName>MENU</menuName>
 <subset.shader>SHADERS</subset.shader>
@@ -304,18 +300,6 @@
 <include name="•Estirar Ala Izquierda & Arriva">./art/sistemas/storyboards/system/character/personaje3/Stretch left&Up.xml</include>
 <include name="•Desliz">./art/sistemas/storyboards/system/character/personaje3/desliz.xml</include>
 </subset>
-
-
-<!--  OPCIONES DE VIDEO-->
-<!-- <subset name="opciones-de-video" displayName="${opciones-de-videoName}">
-<include name="VIDEO ALEATORIO (Por Defecto)" displayName="${yes}">./art/sistemas/storyboards/system/video/videorandom.xml</include>
-<include name="VIDEO DEL SISTEMA - if it exists" displayName="${yes}">./art/sistemas/storyboards/system/video/videosystem.xml</include>
-<include name="WALLPAPER DEL SISTEMA" displayName="${yes}">./art/sistemas/storyboards/system/video/videowallpaper.xml</include>
-<include name="VIDEO & WALLPAPER" displayName="${yes}">./art/sistemas/storyboards/system/video/video&wallpaper.xml</include>
-<include name="full screen VIDEO ALEATORIO" displayName="${yes}">./art/sistemas/storyboards/system/video/videorandomfull.xml</include>
-<include name="full screen VIDEO DEL SISTEMA - if it exists" displayName="${yes}">./art/sistemas/storyboards/system/video/videosystemfull.xml</include>
-<include name="full screen WALLPAPER DEL SISTEMA" displayName="${yes}">./art/sistemas/storyboards/system/video/videowallpaperfull.xml</include>
-</subset> -->
 
 
 <!-- --------------------------------------- ((( SHOW BOXART ))) -------------------------------- -->
