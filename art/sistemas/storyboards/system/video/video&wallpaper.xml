@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="system">
+
+<video name="backgroundvideo" extra="true">
+<path>./art/sistemas/videos/${system.theme}.mp4</path> 
+<path>{random}</path>
+<visible>true</visible>
+<rotation>0</rotation>  
+<roundCorners>0</roundCorners>   
+<size>1 0.450</size>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<delay>0</delay>
+<showSnapshotNoVideo>false</showSnapshotNoVideo>
+<showSnapshotDelay>false</showSnapshotDelay>
+ <linearSmooth>true</linearSmooth>
+<color>FFFFFF</color>
+<zIndex>37</zIndex>
+</video>
+
+<image name="fondocarrusel" extra="true">
+<zIndex>38</zIndex>
+</image> 
+
+
+<image name="background4" extra="true">
+<tile>false</tile>
+<color>ffffff</color>
+<size>1 0.551</size>
+<pos>0 0.450</pos>
+<origin>0 0</origin>
+<path>./art/sistemas/wall/default.png</path>
+<path>./art/sistemas/wall/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<zIndex>37</zIndex>
+</image> 
+
+<image name="fondonegro2,background3" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image>
+
+<image name="backgroundsystem" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image>
+</view>
+</theme>

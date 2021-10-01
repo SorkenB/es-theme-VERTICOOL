@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SYSTEM</systemViewName>
+<bigboxName>ANIMACJA</bigboxName>
+<mostra-personajesName>AKTYWUJ POSTACIE</mostra-personajesName>
+<size-personaje1Name>ROZMIAR ZNAKU 1</size-personaje1Name>
+<size-personaje2Name>ZNAK 2 ROZMIAR</size-personaje2Name>
+<size-personaje3Name>ZNAK 3 ROZMIAR</size-personaje3Name>
+<animacion-de-personajes-1Name>ANIMACJA POSTACI 1</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>ANIMACJA POSTACI 2</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>ANIMACJA POSTACI 3</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>KOLOR W MINI TAPETACH</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>TYP WIDEO (tylko system)</opciones-de-videoName>
+
+<mostrar-boxarteName>POKAŻ OKŁADKI</mostrar-boxarteName>
+<mostrar-consolaName>POKAŻ KONSOLĘ</mostrar-consolaName>
+<mostrar-controlesName>POKAŻ STEROWANIE</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>LOGO NA KARUZELI</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>LOGO NA LIŚCIE GIER</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>KARUZELA LOGO (tylko system)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>DŹWIĘK KARUZELI</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>DŹWIĘK NA LIŚCIE GIER</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>OPIS</informacionsystemName>
+<menuName>MENU</menuName>
+<subset.shader>SHADERY</subset.shader>
+<subset.colorset>KOLOR (menu)</subset.colorset>
+</variables>
+</theme>

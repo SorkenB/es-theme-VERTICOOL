@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SYSTEEM</systemViewName>
+<bigboxName>ANIMATIE</bigboxName>
+<mostra-personajesName>KARAKTERS ACTIVEREN</mostra-personajesName>
+<size-personaje1Name>KARAKTER 1 MAAT</size-personaje1Name>
+<size-personaje2Name>KARAKTER 2 MAAT</size-personaje2Name>
+<size-personaje3Name>KARAKTER 3 MAAT</size-personaje3Name>
+<animacion-de-personajes-1Name>KARAKTER 1 ANIMATIE</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>KARAKTER 2 ANIMATIE</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>KARAKTER 3 ANIMATIE</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>KLEUR IN MINI-BEHANG</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>VIDEOTYPE (alleen systeem)</opciones-de-videoName>
+
+<mostrar-boxarteName>TOON HOESJES</mostrar-boxarteName>
+<mostrar-consolaName>TOON CONSOLE</mostrar-consolaName>
+<mostrar-controlesName>TOON BEDIENING</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>LOGO'S OP CARROUSEL</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>LOGO'S IN GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CARROUSEL (alleen systeem)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>CARROUSEL GELUID</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>GELUID IN GAMELIST</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>OMSCHRIJVING</informacionsystemName>
+<menuName>MENU</menuName>
+<subset.shader>SHADERS</subset.shader>
+<subset.colorset>KLEUR (menu's)</subset.colorset>
+</variables>
+</theme>

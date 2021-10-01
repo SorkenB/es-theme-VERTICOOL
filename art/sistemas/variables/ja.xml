@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>システム</systemViewName>
+<bigboxName>アニメーション</bigboxName>
+<mostra-personajesName>キャラクターをアクティブにする</mostra-personajesName>
+<size-personaje1Name>キャラクター1サイズ</size-personaje1Name>
+<size-personaje2Name>キャラクター2サイズ</size-personaje2Name>
+<size-personaje3Name>キャラクター3サイズ</size-personaje3Name>
+<animacion-de-personajes-1Name>キャラクター1のアニメーション</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>キャラクター2のアニメーション</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>キャラクター3のアニメーション</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>ミニ壁紙の色</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>ビデオタイプ（システムのみ）</opciones-de-videoName>
+
+<mostrar-boxarteName>カバーを表示</mostrar-boxarteName>
+<mostrar-consolaName>ショーコンソール</mostrar-consolaName>
+<mostrar-controlesName>コントロールを表示</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>カルーセルのロゴ</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>ゲームリストのロゴ</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL（システムのみ）</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>CAROUSEL SOUND</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>ゲームリストのサウンド</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>説明</informacionsystemName>
+<menuName>メニュー</menuName>
+<subset.shader>シェーダー</subset.shader>
+<subset.colorset>色（メニュー）</subset.colorset>
+</variables>
+</theme>

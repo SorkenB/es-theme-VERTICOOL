@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>체계</systemViewName>
+<bigboxName>생기</bigboxName>
+<mostra-personajesName>캐릭터 활성화</mostra-personajesName>
+<size-personaje1Name>캐릭터 1 사이즈</size-personaje1Name>
+<size-personaje2Name>캐릭터 2 사이즈</size-personaje2Name>
+<size-personaje3Name>캐릭터 3 사이즈</size-personaje3Name>
+<animacion-de-personajes-1Name>캐릭터 1 애니메이션</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>캐릭터 2 애니메이션</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>캐릭터 3 애니메이션</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>미니 월페이퍼의 색상</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>비디오 유형(시스템 전용)</opciones-de-videoName>
+
+<mostrar-boxarteName>표지 표시</mostrar-boxarteName>
+<mostrar-consolaName>콘솔 표시</mostrar-consolaName>
+<mostrar-controlesName>컨트롤 표시</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>회전 목마의 로고</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>게임리스트의 로고</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL(시스템 전용)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>회전목마 소리</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>게임리스트의 사운드</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>설명</informacionsystemName>
+<menuName>메뉴</menuName>
+<subset.shader>셰이더</subset.shader>
+<subset.colorset>색상(메뉴)</subset.colorset>
+</variables>
+</theme>

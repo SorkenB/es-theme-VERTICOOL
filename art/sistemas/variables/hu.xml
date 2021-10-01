@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>RENDSZER</systemViewName>
+<bigboxName>ÉLÉNKSÉG</bigboxName>
+<mostra-personajesName>AKTIVÁLJA A JELLEMZŐKET</mostra-personajesName>
+<size-personaje1Name>1. karakter MÉRET</size-personaje1Name>
+<size-personaje2Name>2. karakter MÉRET</size-personaje2Name>
+<size-personaje3Name>3. karakter MÉRET</size-personaje3Name>
+<animacion-de-personajes-1Name>1. karakter ANIMÁCIÓ</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>2. JELLEMZŐ ANIMÁCIÓ</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>3. SZAKASZ ANIMÁCIÓ</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>SZÍN MINI HÁTTÉRBAN</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>VIDEÓ TÍPUS (csak rendszer)</opciones-de-videoName>
+
+<mostrar-boxarteName>MUTASD MEG A BURKOLATOT</mostrar-boxarteName>
+<mostrar-consolaName>MUTASSA A KONZOLT</mostrar-consolaName>
+<mostrar-controlesName>MUTASD KEZELŐSZERVEKET</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>LOGÓK A KARUSZULÁN</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>LOGÓK A JÁTÉKLISTÁBAN</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL (csak rendszer)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>KARUSZULAHANG</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>HANG A JÁTÉKLISTÁBAN</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>LEÍRÁS</informacionsystemName>
+<menuName>MENÜ</menuName>
+<subset.shader>Borotvák</subset.shader>
+<subset.colorset>SZÍN (menük)</subset.colorset>
+</variables>
+</theme>

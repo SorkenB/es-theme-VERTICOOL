@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>СИСТЕМА</systemViewName>
+<bigboxName>АНИМАЦИЯ</bigboxName>
+<mostra-personajesName>АКТИВИРОВАТЬ ПЕРСОНАЖЕЙ</mostra-personajesName>
+<size-personaje1Name>РАЗМЕР ПЕРСОНАЖА 1</size-personaje1Name>
+<size-personaje2Name>РАЗМЕР ПЕРСОНАЖА 2</size-personaje2Name>
+<size-personaje3Name>РАЗМЕР ПЕРСОНАЖА 3</size-personaje3Name>
+<animacion-de-personajes-1Name>ПЕРСОНАЖ 1 АНИМАЦИЯ</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>ПЕРСОНАЖ 2 АНИМАЦИЯ</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>ПЕРСОНАЖ 3 АНИМАЦИЯ</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>ЦВЕТ МИНИ-ОБОИ</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>ТИП ВИДЕО (только система)</opciones-de-videoName>
+
+<mostrar-boxarteName>ПОКАЗАТЬ ОБЛОЖКИ</mostrar-boxarteName>
+<mostrar-consolaName>ПОКАЗАТЬ КОНСОЛЬ</mostrar-consolaName>
+<mostrar-controlesName>ПОКАЗАТЬ УПРАВЛЕНИЕ</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>ЛОГОТИПЫ НА CAROUSEL</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>ЛОГОТИПЫ В ГАМЛИСТЕ</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL (только система)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>КАРОУСЕЛЬНЫЙ ЗВУК</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>ЗВУК В ГАМЛИСТЕ</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>ОПИСАНИЕ</informacionsystemName>
+<menuName>МЕНЮ</menuName>
+<subset.shader>ШЕЙДЕРЫ</subset.shader>
+<subset.colorset>ЦВЕТ (Меню)</subset.colorset>
+</variables>
+</theme>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SISTEMA</systemViewName>
+<bigboxName>ANIMAZIOA</bigboxName>
+<mostra-personajesName>AKTIBATU PERTSONAIAK</mostra-personajesName>
+<size-personaje1Name>1. PERTSONAIA NEURRIA</size-personaje1Name>
+<size-personaje2Name>2. PERTSONAIA NEURRIA</size-personaje2Name>
+<size-personaje3Name>3. PERTSONAIA NEURRIA</size-personaje3Name>
+<animacion-de-personajes-1Name>1. PERTSONAIA ANIMAZIOA</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>2. PERTSONAIA ANIMAZIOA</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>3. PERTSONAIA ANIMAZIOA</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>KOLOREA MINI HORMA paper paperean</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>BIDEO MOTA (sistema soilik)</opciones-de-videoName>
+
+<mostrar-boxarteName>IKUSKIZUN ESTALAK</mostrar-boxarteName>
+<mostrar-consolaName>ERAKUTSI KONSOLA</mostrar-consolaName>
+<mostrar-controlesName>IKUSKIZUN KONTROLAK</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>LOGOAK KARRUSELAN</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>LOGOAK JOLAS-LISTAN</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL (sistema bakarra)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>CAROUSEL SOINUA</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>SOINUA JOLAS-LISTAN</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>DESKRIBAPENA</informacionsystemName>
+<menuName>MENUA</menuName>
+<subset.shader>ITZALTZAILEAK</subset.shader>
+<subset.colorset>KOLOREA (menuak)</subset.colorset>
+</variables>
+</theme>

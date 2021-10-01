@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="system,basic,detailed,grid,carousel,gamecarousel">
+<image name="fondocarrusel" extra="true">
+<visible>false</visible>
+<tile>false</tile>
+<color>00000000</color>
+<size>1 1</size>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<linearSmooth>true</linearSmooth>
+<zIndex>35</zIndex>
+</image> 
+</view>
+</theme>

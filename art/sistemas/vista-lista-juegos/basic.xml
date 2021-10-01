@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="basic">
+ <image name="marcovideo" extra="true">
+<visible>false</visible>
+</image>
+
+<image name="md_thumbnail">
+<visible>false</visible>
+<origin>0.5 0.5</origin>
+<pos>0.330 0.600</pos>
+<maxSize>0.17 0.20</maxSize>
+</image>
+
+<image name="md_fanart">
+<visible>false</visible>
+<color>ffffff</color>
+<origin>0.5 0.5</origin>
+<pos>0.380 0.890</pos>
+<maxSize>0.11 0.10</maxSize>
+</image>
+
+<image name="background">
+<tile>false</tile>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<size>1 1.680</size>
+<path>./art/sistemas/fondos sistemas/${system.theme}.png</path>
+ <linearSmooth>true</linearSmooth>
+<zIndex>20</zIndex>
+</image>
+
+<image name="lineabasicdown" extra="true">
+<visible>true</visible>
+<color>00000050</color>
+<pos>0 0.974</pos>
+<origin>0 0</origin>
+<size>1 0.004</size>
+<path>./art/carbon_fiber.png</path>
+<zIndex>122</zIndex>
+</image>
+
+<image name="lineabasicup" extra="true">
+<visible>true</visible>
+<color>00000080</color>
+<pos>0 0.02</pos>
+<origin>0 0</origin>
+<size>1 0.004</size>
+<path>./art/carbon_fiber.png</path>
+<zIndex>122</zIndex>
+</image>
+
+<image name="framebasic" extra="true">
+<visible>true</visible>
+<color>00000050</color>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<size>1 1.004</size>
+<path>./art/sistemas/fondos/sombra up.png</path>
+<zIndex>122</zIndex>
+</image>
+
+
+
+
+<textlist name="gamelist">
+<selectorColor>ffffff60</selectorColor>
+<selectedColor>ffffff</selectedColor>
+<primaryColor>000000</primaryColor>
+<secondaryColor>7a6161</secondaryColor>
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<selectorImagePath>./art/sistemas/fondos/selector.png</selectorImagePath>
+<fontSize>0.022</fontSize>
+<pos>0.130 0.20</pos>
+<size>0.750 0.77</size>
+<alignment>center</alignment>
+<lineSpacing>2.0</lineSpacing>
+<horizontalMargin>0.02</horizontalMargin>
+<forceUppercase>false</forceUppercase>
+<zIndex>30</zIndex>
+</textlist>
+
+
+<image name="personaje" extra="true">
+<path>./art/sistemas/character/default.png</path>
+<path>./art/sistemas/character/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>FFFFFFFF</color>
+<origin>0 0</origin>
+<glowColor>000000</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>92</zIndex>
+</image>
+
+<image name="personaje2" extra="true">
+<path>./art/sistemas/character/default.png</path>
+<path>./art/sistemas/character/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>ffffff</color>
+<origin>0 0</origin>
+<glowColor>ffffff60</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>90</zIndex>
+</image>
+
+<image name="personaje3" extra="true">
+<path>./art/sistemas/character/default.png</path>
+<path>./art/sistemas/character/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>FE2EF7</color>
+<origin>0 0</origin>
+<glowColor>ffffff60</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>91</zIndex>
+</image>
+
+<image name="personaje4" extra="true">
+<path>./art/sistemas/character2/default.png</path>
+<path>./art/sistemas/character2/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>ffffff</color>
+<origin>0 0</origin>
+<glowColor>ffffff60</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>91</zIndex>
+</image>
+
+<image name="personaje5" extra="true">
+<path>./art/sistemas/character3/default.png</path>
+<path>./art/sistemas/character3/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>ffffff</color>
+<origin>0 0</origin>
+<glowColor>ffffff60</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>91</zIndex>
+</image>
+
+
+<image name="consola" extra="true">
+<path>./art/sistemas/consoles/default.png</path>
+<path>./art/sistemas/consoles/${system.theme}.png</path>
+<color>FFFFFFFF</color>
+<origin>0 0</origin>
+<pos>0.740 0.900</pos>
+<maxSize>0.17 0.17</maxSize>
+<reflexion>0.0 0.0</reflexion>
+<storyboard repeat="forever">
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4000" repeat="3"/>
+</storyboard>  
+<zIndex>36</zIndex>
+</image>
+
+<image name="controles" extra="true">
+<path>./art/sistemas/controles/default.png</path>
+<path>./art/sistemas/controles/${system.theme}.png</path>
+<color>FFFFFFFF</color>
+<origin>0 0</origin>
+<pos>0.095 0.845</pos>
+<maxSize>0.14 0.14</maxSize>
+<reflexion>0.0 0.0</reflexion>
+<storyboard repeat="forever">
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4000" repeat="3"/>
+</storyboard>  
+<zIndex>36</zIndex>
+</image>
+
+<helpsystem name="help">
+<visible>true</visible>
+<textColor>ffffff</textColor>
+<iconColor>ffffff</iconColor>
+<fontSize>0.020</fontSize>
+<pos>0.05 0.983</pos>
+</helpsystem>
+
+<image name="md_marquee">
+<pos>0.496 0.102</pos>
+<maxSize>0.452 0.4</maxSize>
+<zIndex>90</zIndex>
+<linearSmooth>true</linearSmooth>
+<zIndex>223</zIndex>
+</image>
+
+<text name="logoText">
+<pos>0.496 0.102</pos>
+<maxSize>0.452 0.4</maxSize>
+<origin>0.5 0.5</origin>
+<alignment>center</alignment>
+<fontSize>0.07</fontSize>
+<fontPath>./art/sistemas/fuentes/Bebas Neue.ttf</fontPath>
+<color>00000000</color>
+<zIndex>23</zIndex>
+</text>
+<image name="logo">
+<pos>0.496 0.102</pos>
+<maxSize>0.452 0.4</maxSize>
+<origin>0.5 0.5</origin>
+<linearSmooth>true</linearSmooth>
+<zIndex>223</zIndex>
+</image>
+
+<rating name="md_rating">
+<pos>0.88 0.886</pos>
+<size>0.05 0.03</size>
+<color>FFFFFF</color>
+<unfilledColor>808080</unfilledColor>
+</rating>
+
+<text name="fullName,manufacturerName">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<video name="marquesinavideo,marquerandomvid,videofondomarquee" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</video>
+
+<image name="defaultimagen" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image> 
+
+<image name="logocoinops,glassmarquee,sombra,lineasv,scanlinemarquee,backgroundsystem,glassvideo,fondocarrusel" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image> 
+</view>
+
+</theme>

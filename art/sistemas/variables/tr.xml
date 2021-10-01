@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SİSTEM</systemViewName>
+<bigboxName>ANİMASYON</bigboxName>
+<mostra-personajesName>KARAKTERLERİ ETKİNLEŞTİR</mostra-personajesName>
+<size-personaje1Name>KARAKTER 1 BOYUT</size-personaje1Name>
+<size-personaje2Name>KARAKTER 2 BOYUT</size-personaje2Name>
+<size-personaje3Name>KARAKTER 3 BOYUT</size-personaje3Name>
+<animacion-de-personajes-1Name>KARAKTER 1 ANİMASYON</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>KARAKTER 2 ANİMASYON</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>KARAKTER 3 ANİMASYON</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>MİNİ DUVAR KAĞITINDA RENK</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>VİDEO TÜRÜ (yalnızca sistem)</opciones-de-videoName>
+
+<mostrar-boxarteName>KAPAKLARI GÖSTER</mostrar-boxarteName>
+<mostrar-consolaName>KONSOLU GÖSTER</mostrar-consolaName>
+<mostrar-controlesName>KONTROLLERİ GÖSTER</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>KARUSEL ÜZERİNDEKİ LOGOLAR</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>GAMELIST'DEKİ LOGOLAR</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL (sadece sistem)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>atlıkarınca sesi</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>GAMELIST'DE SES</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>TANIM</informacionsystemName>
+<menuName>MENÜ</menuName>
+<subset.shader>SHADERS</subset.shader>
+<subset.colorset>RENK (Menüler)</subset.colorset>
+</variables>
+</theme>

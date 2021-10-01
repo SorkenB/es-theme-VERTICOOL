@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>ΣΥΣΤΗΜΑ</systemViewName>
+<bigboxName>ΚΙΝΟΥΜΕΝΩΝ ΣΧΕΔΙΩΝ</bigboxName>
+<mostra-personajesName>ΕΝΕΡΓΟΠΟΙΗΣΗ ΧΑΡΑΚΤΗΡΩΝ</mostra-personajesName>
+<size-personaje1Name>ΧΑΡΑΚΤΗΡΑΣ 1 ΜΕΓΕΘΟΣ</size-personaje1Name>
+<size-personaje2Name>ΧΑΡΑΚΤΗΡΑΣ 2 ΜΕΓΕΘΟΣ</size-personaje2Name>
+<size-personaje3Name>ΧΑΡΑΚΤΗΡΑΣ 3 ΜΕΓΕΘΟΣ</size-personaje3Name>
+<animacion-de-personajes-1Name>ΧΑΡΑΚΤΗΡΑΣ 1 ΖΩΗ</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>ΧΑΡΑΚΤΗΡΑΣ 2 ΖΩΗ</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>ΧΑΡΑΚΤΗΡΑΣ 3 ΖΩΗ</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>ΧΡΩΜΑ ΣΕ ΜΙΝΙ ΤΑΠΕΤΣΑ</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>ΤΥΠΟΣ ΒΙΝΤΕΟ (μόνο για σύστημα)</opciones-de-videoName>
+
+<mostrar-boxarteName>ΕΜΦΑΝΙΣΗ ΕΞΩΦΥΛΛΩΝ</mostrar-boxarteName>
+<mostrar-consolaName>ΔΕΙΤΕ ΚΟΝΣΟΛ</mostrar-consolaName>
+<mostrar-controlesName>ΔΕΙΤΕ ΕΛΕΓΧΟΥΣ</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>ΛΟΓΟΣ ΣΤΟ ΚΑΡΟΥΖΕΛ</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>ΛΟΓΟΣ ΣΤΟ GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL (μόνο σύστημα)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>ΚΑΡΟΥΖΕΛ ΗΧΟΣ</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>ΗΧΟΣ ΣΕ GAMELIST</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>ΠΕΡΙΓΡΑΦΗ</informacionsystemName>
+<menuName>ΜΕΝΟΥ</menuName>
+<subset.shader>ΣΚΗΤΕΣ</subset.shader>
+<subset.colorset>ΧΡΩΜΑ (Μενού)</subset.colorset>
+</variables>
+</theme>

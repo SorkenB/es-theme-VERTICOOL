@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SYSTEM</systemViewName>
+<bigboxName>ANIMATION</bigboxName>
+<mostra-personajesName>ACTIVATE CHARACTERS</mostra-personajesName>
+<size-personaje1Name>CHARACTER 1 SIZE</size-personaje1Name>
+<size-personaje2Name>CHARACTER 2 SIZE</size-personaje2Name>
+<size-personaje3Name>CHARACTER 3 SIZE</size-personaje3Name>
+<animacion-de-personajes-1Name>CHARACTER 1 ANIMATION</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>CHARACTER 2 ANIMATION</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>CHARACTER 3 ANIMATION</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>COLOR IN MINI WALLPAPER</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>VIDEO TYPE (system only)</opciones-de-videoName>
+
+<mostrar-boxarteName>SHOW COVERS</mostrar-boxarteName>
+<mostrar-consolaName>SHOW CONSOLE</mostrar-consolaName>
+<mostrar-controlesName>SHOW CONTROLS</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>LOGOS ON CAROUSEL</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>LOGOS IN GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL (only system)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>CAROUSEL SOUND</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>SOUND IN GAMELIST</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>DESCRIPTION</informacionsystemName>
+<menuName>MENU</menuName>
+<subset.shader>SHADERS</subset.shader>
+<subset.colorset>COLOR (Menus)</subset.colorset>
+</variables>
+</theme>
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="system">
+
+<video name="backgroundvideo" extra="true">
+<path>./art/sistemas/videos/${system.theme}.mp4</path> 
+<visible>true</visible>
+<rotation>0</rotation>  
+<roundCorners>0</roundCorners>   
+<size>1 1</size>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<delay>0</delay>
+<showSnapshotNoVideo>false</showSnapshotNoVideo>
+<showSnapshotDelay>false</showSnapshotDelay>
+ <linearSmooth>true</linearSmooth>
+<color>FFFFFF</color>
+<zIndex>37</zIndex>
+</video>
+
+<image name="fondocarrusel" extra="true">
+<zIndex>38</zIndex>
+</image> 
+
+<image name="lineabasicdown" extra="true">
+<visible>true</visible>
+<color>00000060</color>
+<pos>0 0.976</pos>
+<origin>0 0</origin>
+<size>1 0.024</size>
+<path>./art/carbon_fiber.png</path>
+<zIndex>122</zIndex>
+</image>
+
+<image name="backgroundsystem,background3" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image>
+</view>
+</theme>

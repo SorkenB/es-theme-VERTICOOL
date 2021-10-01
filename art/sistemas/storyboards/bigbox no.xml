@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="system">
+
+<text name="fullNamebigbox,sys_info,manufacturerbigbox,sys_description,manufacturerName,fullName" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<image name="lineabasicup,backgroundwall,background4,background3,fondonegro,bigboxlogo,bigbox1,bigbox2,fondonegro2" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image>
+</view>
+
+
+
+<view name="basic,detailed,gridcarousel,gamecarousel">
+<text name="md_lbl_rating,md_players,md_lbl_players,md_playcount,md_lbl_playcount,md_genre,md_lbl_genre,md_releasedate,md_lbl_releasedate,md_publisher,md_lbl_publisher,md_lbl_lastplayed,md_description,logoText,md_description,fullNamebigbox,sys_info,manufacturerbigbox,sys_description,manufacturerName,fullName" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<image name="fondocarrusel,backgroundsys,fondonegro,fondonegro2,bigboxlogo" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image>
+
+
+<datetime name="md_lastplayed">
+<visible>false</visible>
+<color>00000000</color>
+</datetime>
+
+<rating name="md_rating">
+<visible>false</visible>
+<color>00000000</color>
+</rating>
+
+</view>
+</theme>
+

@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+
+<view name="system, basic,detailed, grid, carousel, gamecarousel">
+<text name="manufacturerName" extra="static">
+<text>${system.sortedBy}</text>
+<alignment>left</alignment>
+<verticalAlignment>top</verticalAlignment>
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<fontSize>0.060</fontSize>
+<pos>0.029 0.037</pos>
+<size>0.942 0.28</size>
+<color>C0C0C0</color>      
+<zIndex>99</zIndex>
+<color>D0D0D0FF</color>
+<glowColor>00000040</glowColor>
+<glowSize>2</glowSize>
+<fontSize tinyScreen="true">0.065</fontSize>
+<glowSize tinyScreen="true">1</glowSize>
+</text>
+
+<text name="fullName" extra="true">
+<text>${system.fullName}</text>
+<alignment>left</alignment>
+<verticalAlignment>top</verticalAlignment>
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<fontSize>0.024</fontSize>
+<pos>0.03 0.12</pos>
+<pos verticalScreen="true">0.03 0.10</pos>         
+<size>0.94 0.28</size>
+<zIndex>100</zIndex>
+<color>D0D0D0FF</color>
+<glowColor>000000A0</glowColor>
+<glowSize>1</glowSize>  
+<pos tinyScreen="true">0.03 0.13</pos>
+<glowColor tinyScreen="true">00000040</glowColor>
+<fontSize tinyScreen="true">0.035</fontSize>
+</text>
+
+<text name="sys_info" extra="true">
+<pos>0.03 0.360</pos>
+<size>0.340 0.055</size>
+<text></text>
+<fontSize>0.013</fontSize>
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<color>ffffff</color>
+<glowColor>000000</glowColor>
+<glowSize>1</glowSize>
+<forceUppercase>true</forceUppercase>
+<zIndex>65</zIndex>
+</text>
+
+<image name="fondocarrusel" extra="true">
+<visible>true</visible>
+<tile>false</tile>
+<color>000000</color>
+<size>1 1</size>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<path>./art/sistemas/fondos sistemas/sombra carrusel.png</path>
+<linearSmooth>true</linearSmooth>
+<zIndex>35</zIndex>
+</image> 
+
+<image name="background" extra="true">
+<visible>true</visible>
+<tile>false</tile>
+<size>1 1</size>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<path>./art/sistemas/fondos sistemas/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+</image> 
+
+<image name="defaultimagen" extra="true">
+<visible>true</visible>
+<tile>false</tile>
+<pos>0.352 0.775</pos>
+<size>0.2700 0.1900</size>
+<origin>0.5 0.5</origin>
+<path>./art/sistemas/fondos/default.png</path>
+<linearSmooth>true</linearSmooth>
+<zIndex>23</zIndex>
+</image> 
+
+<image name="backgroundsystem" extra="true">
+<visible>true</visible>
+<tile>false</tile>
+<pos>0.352 0.775</pos>
+<size>0.2700 0.1900</size>
+<origin>0.5 0.5</origin>
+<path>{random:thumbnail}</path>
+<linearSmooth>true</linearSmooth>
+<zIndex>25</zIndex>
+</image> 
+
+<video name="backgroundvideo" extra="true">
+<visible>true</visible>
+<rotation>0</rotation>  
+<roundCorners>0</roundCorners>   
+<pos>0.352 0.775</pos>
+<size>0.2700 0.1900</size>
+<origin>0.5 0.5</origin>
+<delay>0</delay>
+<showSnapshotNoVideo>false</showSnapshotNoVideo>
+<showSnapshotDelay>false</showSnapshotDelay>
+ <linearSmooth>true</linearSmooth>
+<color>FFFFFF</color>
+<zIndex>27</zIndex>
+</video>
+
+<image name="controles" extra="true">
+<path>./art/sistemas/controles/default.png</path>
+<path>./art/sistemas/controles/${system.theme}.png</path>
+<color>FFFFFFFF</color>
+<origin>0 0</origin>
+<pos>0.230 0.825</pos>
+<maxSize>0.14 0.14</maxSize>
+<reflexion>0.0 0.0</reflexion>
+<storyboard repeat="forever">
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4000" repeat="3"/>
+</storyboard>  
+<zIndex>36</zIndex>
+</image>
+
+<image name="consola" extra="true">
+<path>./art/sistemas/consoles/default.png</path>
+<path>./art/sistemas/consoles/${system.theme}.png</path>
+<color>FFFFFFFF</color>
+<origin>0 0</origin>
+<pos>0.450 0.805</pos>
+<maxSize>0.17 0.17</maxSize>
+<reflexion>0.0 0.0</reflexion>
+<storyboard repeat="forever">
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4000" repeat="3"/>
+</storyboard>  
+<zIndex>36</zIndex>
+</image>
+
+<image name="box1" extra="true">
+<origin>0.5 0.5</origin>
+<pos>0.401 0.60</pos>
+<maxSize>0.07 0.30</maxSize>
+<zIndex>40</zIndex>
+<path>{random:thumbnail}</path>
+<color>FFFFFFFF</color>
+<roundCorners>0.05</roundCorners>
+</image>
+
+<image name="box2" extra="true">
+<origin>0.5 0.5</origin>
+<pos>0.351 0.60</pos>
+<maxSize>0.04 0.20</maxSize>
+<zIndex>40</zIndex>
+<path>{random:thumbnail}</path>
+<color>FFFFFFFF</color>
+<roundCorners>0.05</roundCorners>
+</image>
+</view>
+
+
+
+
+
+
+<!--basic, detailed, grid, carousel, gamecarousel -->
+
+<view name="basic, detailed, grid, carousel, gamecarousel">
+<image name="fondocarrusel" extra="true">
+<visible>true</visible>
+<tile>false</tile>
+<size>1 1</size>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<path>./art/sistemas/fondos sistemas/sombra carrusel.png</path>
+<linearSmooth>true</linearSmooth>
+<zIndex>36</zIndex>
+</image> 
+
+<gamecarousel name="gamecarousel">
+<linearSmooth>true</linearSmooth>
+<zIndex>123</zIndex>	      
+<type>vertical_wheel</type>
+<pos>0.345 0</pos>
+<size>1 1</size>
+<logoScale>1.45</logoScale>
+<logoSize>0.130 0.260</logoSize>
+<color>ffffff</color>
+<maxLogoCount>30</maxLogoCount>
+<logoRotation>9</logoRotation>
+<logoRotationOrigin>4.0 0.5</logoRotationOrigin>
+<logoAlignment>center</logoAlignment>   
+<imageSource>marquee</imageSource>
+</gamecarousel> 
+
+<video name="md_video">
+<visible>true</visible>
+<pos>0.352 0.775</pos>
+<size>0.2700 0.1900</size>
+<origin>0.5 0.5</origin>
+<color>ffffff</color>            
+<delay>0</delay>
+<effect>none</effect>    		 
+<showSnapshotNoVideo>true</showSnapshotNoVideo>
+<showSnapshotDelay>true</showSnapshotDelay>
+<zIndex>28</zIndex>
+</video> 
+
+<image name="md_image">
+<pos>0.352 0.775</pos>
+<size>0.2700 0.1900</size>
+<origin>0.5 0.5</origin>
+<reflexion>0.0 0.0</reflexion>
+<linearSmooth>true</linearSmooth>
+<zIndex>227</zIndex>
+<delay>0.07</delay>
+</image>
+
+<image name="backgroundsystem" extra="true">
+<tile>false</tile>
+<pos>0.352 0.775</pos>
+<size>0.2700 0.1900</size>
+<origin>0.5 0.5</origin>
+<path>./art/sistemas/wall/default.png</path>
+<path>./art/sistemas/wall/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<zIndex>22</zIndex>
+<storyboard repeat="forever">
+<animation property="opacity" from="0" to="10" duration="2950" mode="easeIn"/> 
+<animation property="opacity" from="0" to="10" duration="2950" begin="8000" mode="easeIn"/>
+<animation property="opacity" from="0" to="1" begin="0" duration="350" mode="linear"/>
+</storyboard>
+</image>
+
+<image name="controles" extra="true">
+<path>./art/sistemas/controles/default.png</path>
+<path>./art/sistemas/controles/${system.theme}.png</path>
+<color>FFFFFFFF</color>
+<origin>0 0</origin>
+<pos>0.230 0.825</pos>
+<maxSize>0.14 0.14</maxSize>
+<reflexion>0.0 0.0</reflexion>
+<storyboard repeat="forever">
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4000" repeat="3"/>
+</storyboard>  
+<zIndex>36</zIndex>
+</image>
+
+<image name="consola" extra="true">
+<path>./art/sistemas/consoles/default.png</path>
+<path>./art/sistemas/consoles/${system.theme}.png</path>
+<color>FFFFFFFF</color>
+<origin>0 0</origin>
+<pos>0.450 0.805</pos>
+<maxSize>0.17 0.17</maxSize>
+<reflexion>0.0 0.0</reflexion>
+<storyboard repeat="forever">
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4000" repeat="3"/>
+</storyboard>  
+<zIndex>36</zIndex>
+</image>
+
+<image name="md_thumbnail">
+<linearSmooth>true</linearSmooth>
+<origin>0.5 0.5</origin>
+<pos>0.420 0.850</pos>
+<maxSize>0.17 0.20</maxSize>
+<zIndex>35</zIndex>
+<delay>0.07</delay>
+<storyboard event="open">
+<animation property="opacity" from="0" to="0" duration="250" mode="easeIn"/>
+<animation property="opacity" from="0" to="1" duration="400" mode="easeIn" begin="250"/>
+<animation property="opacity" from="0" to="1" duration="1950" mode="easeIn"/>
+</storyboard>
+<storyboard event="activateNext">
+<animation property="opacity" from="0" to="1" duration="400" mode="easeOutCubic"/>
+<animation property="opacity" from="0" to="1" duration="1950" mode="easeIn"/>
+</storyboard>
+<storyboard event="activatePrev">
+<animation property="opacity" from="0" to="1" duration="400" mode="easeOutCubic"/>
+<animation property="opacity" from="0" to="1" duration="1950" mode="easeIn"/>
+</storyboard>
+<storyboard event="deactivateNext">
+<animation property="opacity" from="1" to="0" duration="400" mode="easeOutCubic"/>
+</storyboard>
+<storyboard event="deactivatePrev">
+<animation property="opacity" from="1" to="0" duration="400" mode="easeOutCubic"/>
+</storyboard>  
+</image>
+
+<image name="md_logo">
+<linearSmooth>true</linearSmooth>
+<origin>0.5 0.5</origin>
+<pos>0.420 0.850</pos>
+<maxSize>0.17 0.20</maxSize>
+<zIndex>35</zIndex>
+<delay>0.07</delay>
+<storyboard event="open">
+<animation property="opacity" from="0" to="0" duration="250" mode="easeIn"/>
+<animation property="opacity" from="0" to="1" duration="400" mode="easeIn" begin="250"/>
+<animation property="opacity" from="0" to="1" duration="1950" mode="easeIn"/>
+</storyboard>
+<storyboard event="activateNext">
+<animation property="opacity" from="0" to="1" duration="400" mode="easeOutCubic"/>
+<animation property="opacity" from="0" to="1" duration="1950" mode="easeIn"/>
+</storyboard>
+<storyboard event="activatePrev">
+<animation property="opacity" from="0" to="1" duration="400" mode="easeOutCubic"/>
+<animation property="opacity" from="0" to="1" duration="1950" mode="easeIn"/>
+</storyboard>
+<storyboard event="deactivateNext">
+<animation property="opacity" from="1" to="0" duration="400" mode="easeOutCubic"/>
+</storyboard>
+<storyboard event="deactivatePrev">
+<animation property="opacity" from="1" to="0" duration="400" mode="easeOutCubic"/>
+</storyboard>  
+</image>
+
+
+<image name="md_fanart">
+<origin>0.5 0.5</origin>
+<pos>0.360 0.890</pos>
+<maxSize>0.11 0.10</maxSize>
+<reflexion>0.0 0.0</reflexion>
+<roundCorners>0.05</roundCorners>
+<linearSmooth>true</linearSmooth>
+<zIndex>37</zIndex>
+<storyboard event="open">
+<animation property="opacity" from="0" to="0" duration="250" mode="easeIn"/>
+<animation property="opacity" from="0" to="1" duration="400" mode="easeIn" begin="250"/>
+<animation property="y" from="1.01" begin="0" duration="1000" mode="Bump"/>
+</storyboard>
+<storyboard event="activateNext">
+<animation property="opacity" from="0" to="1" duration="400" mode="easeOutCubic"/>
+<animation property="y" from="1.01" begin="0" duration="1000" mode="Bump"/>
+</storyboard>
+<storyboard event="activatePrev">
+<animation property="opacity" from="0" to="1" duration="400" mode="easeOutCubic"/>
+<animation property="y" from="1.01" begin="0" duration="1000" mode="Bump"/>
+</storyboard>
+<storyboard event="deactivateNext">
+<animation property="opacity" from="1" to="0" duration="400" mode="easeOutCubic"/>
+</storyboard>
+<storyboard event="deactivatePrev">
+<animation property="opacity" from="1" to="0" duration="400" mode="easeOutCubic"/>
+</storyboard>
+</image>
+
+
+<image name="md_flag,defaultimagen,background3" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image> 
+
+<rating name="md_rating">
+<visible>false</visible>
+<color>00000000</color>
+<unfilledColor>00000000</unfilledColor> 
+</rating>
+</view>
+</theme>

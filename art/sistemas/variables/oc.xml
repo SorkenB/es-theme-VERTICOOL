@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SISTEMA</systemViewName>
+<bigboxName>ANIMAZIONE</bigboxName>
+<mostra-personajesName>ATTIVA PERSONAGGI</mostra-personajesName>
+<size-personaje1Name>PERSONAGGIO 1 TAGLIA</size-personaje1Name>
+<size-personaje2Name>TAGLIA PERSONAGGIO 2</size-personaje2Name>
+<size-personaje3Name>PERSONAGGIO 3 DIMENSIONI</size-personaje3Name>
+<animacion-de-personajes-1Name>ANIMAZIONE PERSONAGGIO 1</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>ANIMAZIONE PERSONAGGIO 2</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>ANIMAZIONE PERSONAGGIO 3</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>COLORE IN MINI CARTA DA PARATI</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>TIPO VIDEO (solo sistema)</opciones-de-videoName>
+
+<mostrar-boxarteName>MOSTRA COPERTINE</mostrar-boxarteName>
+<mostrar-consolaName>MOSTRA CONSOLE</mostrar-consolaName>
+<mostrar-controlesName>MOSTRA CONTROLLI</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>LOGHI SU GIOSTRA</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>LOGHI IN GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>GIOSTRA LOGO (solo sistema)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>SUONO GIOSTRA</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>SUONO NELLA LISTA DEI GIOCHI</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>DESCRIZIONE</informacionsystemName>
+<menuName>MENÙ</menuName>
+<subset.shader>SHADER</subset.shader>
+<subset.colorset>COLORE (Menu)</subset.colorset>
+</variables>
+</theme>

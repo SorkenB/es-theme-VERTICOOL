@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="system">
+<text name="manufacturerName" extra="static">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<text name="fullName" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<text name="sys_description" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<text name="sys_info" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+</view>
+
+
+<view name="basic, detailed, grid carousel, gamecarousel">
+<text name="md_description">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<text name="manufacturerName" extra="static">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<text name="fullName" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<text name="sys_description" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+
+<text name="sys_info" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</text>
+</view>
+</theme>
+

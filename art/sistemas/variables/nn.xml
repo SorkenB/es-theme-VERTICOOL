@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SYSTEM</systemViewName>
+<bigboxName>ANIMASJON</bigboxName>
+<mostra-personajesName>AKTIVER KARAKTER</mostra-personajesName>
+<size-personaje1Name>KARAKTER 1 STØRRELSE</size-personaje1Name>
+<size-personaje2Name>KARAKTER 2 STØRRELSE</size-personaje2Name>
+<size-personaje3Name>KARAKTER 3 STØRRELSE</size-personaje3Name>
+<animacion-de-personajes-1Name>KARAKTER 1 ANIMASJON</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>KARAKTER 2 ANIMASJON</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>KARAKTER 3 ANIMATION</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>FARGE I MINI TAPET</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>VIDEO TYPE (bare system)</opciones-de-videoName>
+
+<mostrar-boxarteName>VIS DEKSLER</mostrar-boxarteName>
+<mostrar-consolaName>VIS KONSOLEN</mostrar-consolaName>
+<mostrar-controlesName>VIS KONTROLLER</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>LOGOER PÅ CAROUSEL</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>LOGOER I GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL (bare system)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>CAROUSEL SOUND</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>LYD I GAMELIST</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>BESKRIVELSE</informacionsystemName>
+<menuName>MENY</menuName>
+<subset.shader>SKYGGERE</subset.shader>
+<subset.colorset>FARGE (menyer)</subset.colorset>
+</variables>
+</theme>

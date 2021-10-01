@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>SYSTEM</systemViewName>
+<bigboxName>ANIMEIDDIAD</bigboxName>
+<mostra-personajesName>NODWEDDION GWEITHREDOL</mostra-personajesName>
+<size-personaje1Name>CYMERIAD 1 MAINT</size-personaje1Name>
+<size-personaje2Name>CYMERIAD 2 MAINT</size-personaje2Name>
+<size-personaje3Name>CYMERIAD 3 MAINT</size-personaje3Name>
+<animacion-de-personajes-1Name>CYMERIAD 1 ANIFEILIAID</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>CYMERIAD 2 ANIFEILIAID</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>CYMERIAD 3 ANIFEILIAID</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>LLIW YN MINI WALLPAPER</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>MATH FIDEO (system yn unig)</opciones-de-videoName>
+
+<mostrar-boxarteName>DANGOS COVERS</mostrar-boxarteName>
+<mostrar-consolaName>DANGOS YMGYNGHORI</mostrar-consolaName>
+<mostrar-controlesName>DANGOS RHEOLAETHAU</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>LOGOS AR CAROUSEL</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>LOGOS YN GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL (yr unig system)</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>SAIN CAROUSEL</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>SAIN YN Y GAMELIST</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>DISGRIFIAD</informacionsystemName>
+<menuName>MENU</menuName>
+<subset.shader>RHANNAU</subset.shader>
+<subset.colorset>LLIW (Bwydlenni)</subset.colorset>
+</variables>
+</theme>

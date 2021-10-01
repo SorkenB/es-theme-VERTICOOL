@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+<systemViewName>系统</systemViewName>
+<bigboxName>动画片</bigboxName>
+<mostra-personajesName>激活角色</mostra-personajesName>
+<size-personaje1Name>字符 1 尺寸</size-personaje1Name>
+<size-personaje2Name>字符 2 尺寸</size-personaje2Name>
+<size-personaje3Name>字符 3 尺寸</size-personaje3Name>
+<animacion-de-personajes-1Name>角色 1 动画</animacion-de-personajes-1Name>
+<animacion-de-personajes-2Name>角色 2 动画</animacion-de-personajes-2Name>
+<animacion-de-personajes-3Name>角色 3 动画</animacion-de-personajes-3Name>
+
+<subset.animacion-imagen-de-fondo>迷你壁纸的颜色</subset.animacion-imagen-de-fondo>
+<opciones-de-videoName>视频类型（仅限系统）</opciones-de-videoName>
+
+<mostrar-boxarteName>显示封面</mostrar-boxarteName>
+<mostrar-consolaName>显示控制台</mostrar-consolaName>
+<mostrar-controlesName>显示控件</mostrar-controlesName>
+
+<cambiar-logos-en-carruselName>旋转木马上的标志</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>游戏列表中的徽标</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>LOGO CAROUSEL（仅限系统）</activar-movimiento-en-logo-de-carruselName>
+
+<subset.aplicar-sonido-en-carrusel>旋转木马的声音</subset.aplicar-sonido-en-carrusel>
+<subset.aplicar-sonido-en-gamelist>游戏列表中的声音</subset.aplicar-sonido-en-gamelist>
+
+<informacionsystemName>描述</informacionsystemName>
+<menuName>菜单</menuName>
+<subset.shader>着色器</subset.shader>
+<subset.colorset>颜色（菜单）</subset.colorset>
+</variables>
+</theme>

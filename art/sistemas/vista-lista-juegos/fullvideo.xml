@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<customView name="FULL SCREEN VIDEO" inherits="gamecarousel" displayName="${gridDetailsViewName}">  
+<gamecarousel name="gamecarousel">
+<linearSmooth>true</linearSmooth>
+<pos>0.335 0.214</pos>
+<size>1 1</size>
+<zIndex>123</zIndex>	      
+<type>vertical_wheel</type>
+<size>1 1</size>
+<logoScale>1.95</logoScale>
+<logoSize>0.140 0.270</logoSize>
+<color>ffffff</color>
+<maxLogoCount>32</maxLogoCount>
+<logoRotation>3</logoRotation>
+<logoAlignment>center</logoAlignment>   
+<imageSource>marquee</imageSource>
+</gamecarousel> 
+
+<text name="gamecarouselLogoText">
+<fontSize>0.030</fontSize>
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<color>FFFFFFFF</color>
+<glowColor>000000FF</glowColor>
+<glowSize>4</glowSize>
+<lineSpacing>1.0</lineSpacing>
+</text>
+
+<image name="lineabasicdown" extra="true">
+<visible>true</visible>
+<color>00000099</color>
+<pos>0 0.976</pos>
+<origin>0 0</origin>
+<size>1 0.024</size>
+<path>./art/carbon_fiber.png</path>
+<zIndex>122</zIndex>
+</image>
+
+<image name="backgroundsystem,background3,defaultimagen,md_flag,logo,md_marquee,background,sombra" extra="true">
+<visible>false</visible>
+<color>00000000</color>
+</image> 
+
+<image name="backgroundsystemfull" extra="true">
+<tile>false</tile>
+<color>ffffff</color>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<size>1 1</size>
+<path>./art/sistemas/wall/default.png</path>
+<path>./art/sistemas/wall/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<zIndex>37</zIndex>
+</image> 
+
+<image name="background3" extra="true">
+<zIndex>1</zIndex>
+</image> 
+
+<image name="sombrafondocarrusel" extra="true">
+<visible>true</visible>
+<tile>false</tile>
+<path>./art/sistemas/fondos sistemas/sombra fondo carrusel.png</path>
+<pos>0.9850 0.713</pos>
+<size>0.736 0.530</size>
+<origin>0.5 0.5</origin>
+<color>000000</color>
+<linearSmooth>true</linearSmooth>
+<zIndex>40</zIndex>
+</image> 
+
+<image name="sombrafondocarrusel2" extra="true">
+<visible>true</visible>
+<tile>false</tile>
+<path>./art/sistemas/fondos sistemas/sombra fondo carrusel.png</path>
+<pos>0.9850 0.713</pos>
+<size>0.736 0.530</size>
+<origin>0.5 0.5</origin>
+<color>000000</color>
+<linearSmooth>true</linearSmooth>
+<zIndex>41</zIndex>
+</image> 
+
+<image name="personaje" extra="true">
+<path>./art/sistemas/character/default.png</path>
+<path>./art/sistemas/character/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>FFFFFFFF</color>
+<origin>0 0</origin>
+<glowColor>000000</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>92</zIndex>
+</image>
+
+<image name="personaje2" extra="true">
+<path>./art/sistemas/character/default.png</path>
+<path>./art/sistemas/character/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>ffffff</color>
+<origin>0 0</origin>
+<glowColor>ffffff60</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>90</zIndex>
+</image>
+
+<image name="personaje3" extra="true">
+<path>./art/sistemas/character/default.png</path>
+<path>./art/sistemas/character/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>FE2EF7</color>
+<origin>0 0</origin>
+<glowColor>ffffff60</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>91</zIndex>
+</image>
+
+<image name="personaje4" extra="true">
+<path>./art/sistemas/character2/default.png</path>
+<path>./art/sistemas/character2/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>ffffff</color>
+<origin>0 0</origin>
+<glowColor>ffffff60</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>91</zIndex>
+</image>
+
+<image name="personaje5" extra="true">
+<path>./art/sistemas/character3/default.png</path>
+<path>./art/sistemas/character3/${system.theme}.png</path>
+<linearSmooth>true</linearSmooth>
+<color>ffffff</color>
+<origin>0 0</origin>
+<glowColor>ffffff60</glowColor>
+<glowSize>2</glowSize>
+<reflexion>0.50 0.0</reflexion>
+<zIndex>91</zIndex>
+</image>
+
+<helpsystem name="help">
+<visible>true</visible>
+<textColor>ffffff</textColor>
+<iconColor>ffffff</iconColor>
+<fontSize>0.020</fontSize>
+<pos>0.05 0.983</pos>
+</helpsystem>
+
+<video name="md_video">
+<visible>true</visible>
+<size>1 1</size>
+<pos>0 0</pos>
+<origin>0 0</origin>
+<color>ffffff</color>            
+<delay>0</delay>
+<effect>none</effect>    		 
+<showSnapshotNoVideo>true</showSnapshotNoVideo>
+<showSnapshotDelay>true</showSnapshotDelay>
+<zIndex>38</zIndex>
+</video> 
+
+<text name="md_name">
+<visible>true</visible>	
+<glowColor>000000</glowColor>
+<backgroundColor>00000000</backgroundColor>
+<color>ffffff</color>
+<rotation>0</rotation> 
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+ <linearSmooth>true</linearSmooth>
+<fontSize>0.022</fontSize>
+<alignment>center</alignment>
+</text>
+	
+<text name="logoText">
+<pos>0.2800 0.980</pos>
+<size>0.216 0.135</size>
+<origin>0.5 0.5</origin>
+<fontSize>0.020</fontSize>
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<size>0.57 0.1</size>
+<alignment>center</alignment>
+<color>ffffff70</color>
+<forceUppercase>1</forceUppercase>
+<linearSmooth>true</linearSmooth>
+<zIndex>96</zIndex> 
+</text>
+
+<image name="md_thumbnail">
+<visible>false</visible>
+<color>00000000</color>
+</image>
+
+<image name="md_image">
+<visible>false</visible>
+<color>00000000</color> 
+</image>
+
+<text name="md_description">
+<glowColor>000000</glowColor>
+<glowSize>2</glowSize>
+<forceUppercase>0</forceUppercase>
+<fontPath>./art/sistemas/fuentes/Pixel LCD-7.ttf</fontPath>
+<fontSize>0.013</fontSize>
+<color>ffffff</color>
+<glowColor>000000</glowColor>
+<glowSize>1</glowSize>
+</text>
+
+<rating name="md_rating">
+<size>0.040 0.019</size>
+<color>ffffff</color>
+<unfilledColor>ffffff</unfilledColor> 
+</rating>
+</customView>
+</theme>
